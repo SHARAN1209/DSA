@@ -23,7 +23,7 @@ public class SelectionSort {
     }
     
     public static void main(String[] args) {
-      int arr[] = {2, 3, 4, 1, 5};
+      int arr[] = {29, 10, 14, 37, 13};
       //before sorting
       System.out.println(Arrays.toString(arr));
       //calling sorting method
