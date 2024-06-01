@@ -20,7 +20,7 @@ public class BubbleSort {
     }
     
     public static void main(String[] args) {
-      int arr[] = {2, 3, 4, 1, 5};
+      int arr[] = {5, 3, 8, 4, 2};
       //before sorting
       System.out.println(Arrays.toString(arr));
       //calling sorting method
